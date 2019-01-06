@@ -1,7 +1,7 @@
 <template>
     <div class="col-md-4">
         <div class="card">
-            <div class="card-header">Users</div>
+            <div class="card-header">Online Users</div>
             <div class="card-body">
                 <div class="users" v-for="user in users" :key="user.id">
                     <a href="#">{{ user.name }}</a>

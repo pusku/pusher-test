@@ -47759,7 +47759,7 @@ var render = function() {
     }),
     _vm._v(" "),
     _c("span", { staticClass: "notice" }, [
-      _vm._v("\n        Hit Return to send a message\n    ")
+      _vm._v("\n        Press Enter to send a message\n    ")
     ])
   ])
 }
@@ -47851,7 +47851,7 @@ var render = function() {
   var _c = _vm._self._c || _h
   return _c("div", { staticClass: "col-md-4" }, [
     _c("div", { staticClass: "card" }, [
-      _c("div", { staticClass: "card-header" }, [_vm._v("Users")]),
+      _c("div", { staticClass: "card-header" }, [_vm._v("Online Users")]),
       _vm._v(" "),
       _c(
         "div",
@@ -59700,8 +59700,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\xampp\htdocs\pusherTest\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\xampp\htdocs\pusherTest\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! F:\xampp\htdocs\pusherTest\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! F:\xampp\htdocs\pusherTest\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

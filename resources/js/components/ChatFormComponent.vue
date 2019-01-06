@@ -9,7 +9,7 @@
             v-model="body">
         </textarea>
         <span class="notice">
-            Hit Return to send a message
+            Press Enter to send a message
         </span>
     </form>
 </template>
